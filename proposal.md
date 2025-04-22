@@ -3,6 +3,9 @@
 ## Grupo
 ### Integrantes
 * legajo - Apellido(s), Nombre(s)
+* 53136 - Caballero, Luciano
+* 53269 - Leone, Lucca
+* 
 
 ### Repositorios
 * [frontend app](http://hyperlinkToGihubOrGitlab)
