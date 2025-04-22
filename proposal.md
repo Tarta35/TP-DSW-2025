@@ -2,10 +2,9 @@
 
 ## Grupo
 ### Integrantes
-* legajo - Apellido(s), Nombre(s)
 * 53136 - Caballero, Luciano
 * 53269 - Leone, Lucca
-* 
+* 52925 - Vella, Luca
 
 ### Repositorios
 * [frontend app](http://hyperlinkToGihubOrGitlab)
