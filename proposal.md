@@ -40,8 +40,6 @@ Usuario: Puede comprar o registrarse a una subasta (virtual o presencial), consu
 
 ### Alcance Mínimo
 
-*Nota*: el siguiente es un ejemplo para un grupo de 3 integrantes para un sistema de hotel. El 
-
 Regularidad:
 |Req|Detalle|
 |:-|:-|
