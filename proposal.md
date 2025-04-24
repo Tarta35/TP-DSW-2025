@@ -32,9 +32,10 @@ Tasador: Se encarga de publicar su analisis sobre la pieza y el valor, para que 
 Usuario: Puede comprar o registrarse a una subasta (virtual o presencial), consultar lista de articulos con sus precios y stock (articulos nuevos, articulos todos, etc)
 
 ### Modelo
-![imagen del modelo]()
+![Modelo de Dominio Gestion de Articulos](https://github.com/user-attachments/assets/7a5a8f0f-3dc0-4bf9-8dba-3f8cd93005c5)
 
-*Nota*: incluir un link con la imagen de un modelo, puede ser modelo de dominio, diagrama de clases, DER. Si lo prefieren pueden utilizar diagramas con [Mermaid](https://mermaid.js.org) en lugar de imágenes.
+
+Link: https://drive.google.com/file/d/1rXyoW1wYY54ALXUtHZjh0R3I49D9dXWx/view?usp=sharing
 
 ## Alcance Funcional 
 
