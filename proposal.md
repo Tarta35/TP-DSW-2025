@@ -44,17 +44,17 @@ Link: https://drive.google.com/file/d/1rXyoW1wYY54ALXUtHZjh0R3I49D9dXWx/view?usp
 Regularidad:
 |Req|Detalle|
 |:-|:-|
-|CRUD simple|1. CRUD Cuenta<br>2. CRUD Articuló<br>3. CRUD Pedido|
-|CRUD dependiente|1. CRUD Habitación {depende de} CRUD Tipo Habitacion<br>2. CRUD Cliente {depende de} CRUD Localidad|
-|Listado<br>+<br>detalle| 1. Listado de habitaciones filtrado por tipo de habitación, muestra nro y tipo de habitación => detalle CRUD Habitacion<br> 2. Listado de reservas filtrado por rango de fecha, muestra nro de habitación, fecha inicio y fin estadía, estado y nombre del cliente => detalle muestra datos completos de la reserva y del cliente|
-|CUU/Epic|1. Reservar una habitación para la estadía<br>2. Realizar el check-in de una reserva|
+|CRUD simple|1. CRUD Cuenta<br>2. CRUD Artículo<br>3. CRUD Pedido|
+|CRUD dependiente|1. CRUD tasacion {depende de} CRUD Tasador<br>2. CRUD Pedido {depende de} CRUD Cliente|
+|Listado<br>+<br>detalle| 1. Listado de articulo filtrado por tipo de estado, muestra nombre, descripcion y estado => detalle CRUD Artículo<br> 2. Listado de pedidos filtrado por rango de fecha, muestra id de artuculo, fecha de compra,total y nombre del cliente => detalle muestra datos completos del pedido y del cliente|
+|CUU/Epic|1. Realizar la compra de un artículo<br>2. Carga de artículos|
 
 
 Adicionales para Aprobación
 |Req|Detalle|
 |:-|:-|
-|CRUD |1. CRUD Cuenta<br>2. CRUD Articuló<br>3. CRUD Pedido<br>4. CRUD Subasta<br>5. CRUD Tasación<br>6. CRUD Empleado<br>7. CRUD Cliente|
-|CUU/Epic|1. Reservar una habitación para la estadía<br>2. Realizar el check-in de una reserva<br>3. Realizar el check-out y facturación de estadía y servicios|
+|CRUD |1. CRUD Cuenta<br>2. CRUD Artículo<br>3. CRUD Pedido<br>4. CRUD Subasta<br>5. CRUD Tasación<br>6. CRUD Supervisor<br>7. CRUD Gerente|
+|CUU/Epic|1. Realizar la compra de un artículo<br>2. Carga de artículos<br>3. Ingresar tasacion<br>4. Publicar Subasta|
 
 
 ### Alcance Adicional Voluntario
