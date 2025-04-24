@@ -17,7 +17,8 @@ Y tambien gestionar cada pieza ya sea el ingreso y egreso, la actualizacion de s
 
 
 ### Modelo
-![Modelo de Dominio Gestion de Articulos](https://github.com/user-attachments/assets/7a5a8f0f-3dc0-4bf9-8dba-3f8cd93005c5)
+![Modelo de Dominio Gestion de Articulos](https://github.com/user-attachments/assets/6d5540dc-f7c8-447a-83f6-5853527b6fec)
+
 
 
 Link: https://drive.google.com/file/d/1rXyoW1wYY54ALXUtHZjh0R3I49D9dXWx/view?usp=sharing
