@@ -1,2 +1,6 @@
 .vscode tiene el launch.json que configura el poder runear el proyecto sin tener que escribir (node "titulo del archivo") en la terminal todo el rato.
 El profesor recomendo que usemos el modo start:dev que es el que debugea (cualquier cosa tocando el Run de arriba que provee el visual es lo mismo).
+
+El controlador de versiones nvm no me dejaba ejecutar "node --version > .nvmrc" como en el video, pero con "node.exe --version > .nvmrc" si pude y creo el archivo .nvmrc como debe.
+
+Usamos app.js en vez de index.js porque segun el  video asi se trabaja en cuanto programamos un programa.

@@ -1,1 +1,23 @@
-**/node_modules
+# coverage reports
+coverage
+
+# API keys and secrets
+.env
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# vscode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/*.code-snippets
+
+## local history for vscode
+.history/
+
+## built vscode extensions
+*.vsix
