@@ -4,3 +4,11 @@ El profesor recomendo que usemos el modo start:dev que es el que debugea (cualqu
 El controlador de versiones nvm no me dejaba ejecutar "node --version > .nvmrc" como en el video, pero con "node.exe --version > .nvmrc" si pude y creo el archivo .nvmrc como debe.
 
 Usamos app.js en vez de index.js porque segun el  video asi se trabaja en cuanto programamos un programa.
+
+//user --> request --> express --> (middleware que forme el req.body) express.json() --> app.post (req.body) --> response --> user
+//character -> /api/characters/
+//get -> /api/characters/ -> obtener la lista de character
+//get -> /api/characters/:id -> obtener el character con id = :id
+//post -> /api/characters/ -> crear nuevos character
+//delete -> /api/characters/:id -> borrar characters con id = :id
+//put & patch -> /api/characters/:id -> modificar character con id = :id

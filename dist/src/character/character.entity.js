@@ -11,4 +11,4 @@ export class Character {
         this.id = id;
     }
 }
-//# sourceMappingURL=character.js.map
+//# sourceMappingURL=character.entity.js.map

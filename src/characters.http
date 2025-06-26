@@ -1,8 +1,0 @@
-### obtener todos los characters
-
-GET http://localhost:3000/api/characters
-
-
-### obtener un character
-
-GET GET http://localhost:3000/api/characters/

@@ -21,3 +21,6 @@ Thumbs.db
 
 ## built vscode extensions
 *.vsix
+
+## node modules, instalar con pnpm i
+node_modules

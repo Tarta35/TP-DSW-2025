@@ -1,4 +1,4 @@
-import crypto from 'node:crypto'
+import crypto from 'crypto'
 
 export class Character{
   constructor(
@@ -9,6 +9,6 @@ export class Character{
     public mana: number, 
     public attack: number, 
     public items: string[],
-    
+    public id = crypto.randomUUID()
   ) {}
 }
